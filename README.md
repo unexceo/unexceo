@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" width="100%" />
-
+<p align="center">
+ 
+  <img src="https://raw.githubusercontent.com/unexceo/unexceo/main/fish-jump.svg" alt="Fish jumping" width="100%">
+</p>
 ## 💻 root@unexceo:~$ about
 
 ```bash
